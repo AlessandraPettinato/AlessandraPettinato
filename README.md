@@ -1,11 +1,14 @@
 <div align="center">
 
-# Hello there, my name is Alessandra!
+# Hello there, my name is Alessandra! :seedling:
+  
+  I am a <strong>Web Developer</strong> based in Berlin
 
 <br>
 Why don't you take a look at my portfolio first..?
   <br>
-  https://alessandrapettinato.netlify.app/
+  <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
+  <br>
   <p>
 Connect with me on LinkedIn: 
   <br>
