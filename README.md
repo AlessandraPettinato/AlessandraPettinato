@@ -26,7 +26,7 @@
    ---
   
 <div align="center">
-You can find some personal projects on my 
+:globe_with_meridians: You can find some personal projects on my 
 
   <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
 </div>
