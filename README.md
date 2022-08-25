@@ -11,12 +11,17 @@ Why don't you take a look at my Portfolio first..?
 
 ---
 <div align="left">
-• :dress: Frontend Developer at <a href="https://www.linkedin.com/company/nosto/mycompany/verification/">Nosto</a>
-• :books: Learning about <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 	
-• :raised_hands:  Let's get in touch 
-
- <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a>
- <a target="_blank" href="mailto:alessandrapettinato@hotmail.it" rel="noopener noreferrer">Mail</a>
+  <ul>
+    <li>
+       :dress: Frontend Developer at <a href="https://www.linkedin.com/company/nosto/mycompany/verification/">Nosto</a>
+    </li>
+    <li>
+    :books: Learning about <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+    </li>
+    <li>
+      :raised_hands:  Let's get in touch: <span>  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a></span>
+    </li>
+  </ul>
 </div>
 ---
  <p align="center">
