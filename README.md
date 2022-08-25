@@ -25,7 +25,8 @@
 
 ---
 <div align="center">
-      :raised_hands:  Let's get in touch: <span>  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a></span> 
+      :raised_hands:  Let's get in touch!  
+   <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a> 
 </div>
 
 ---
