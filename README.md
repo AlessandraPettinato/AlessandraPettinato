@@ -42,8 +42,8 @@ Why don't you take a look at my Portfolio first..?
 ![Alessandra Pettinato status](https://github-readme-stats.vercel.app/api?username=alessandrapettinato&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrapettinato&langs_count=6&hide=html&theme=dark&layout=compact)](https://github.com/AlessandraPettinato/github-readme-stats)
 
 </div>
----
 
+---
 <div>
 Let's connect on Linkedin: 
   <br>
