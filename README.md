@@ -21,6 +21,7 @@ Why don't you take a look at my Portfolio first..?
  <p align="center">
   
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img alt="jQuery" src="https://img.shields.io/badge/jQuery-3178C6?style=for-the-badge&logo=jquery&logoColor=white" />
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
