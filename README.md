@@ -1,16 +1,14 @@
 <div align="center">
 
 # Hello there, my name is Alessandra! :sparkles:
-  
+ 
+<div> 
   I am a <strong>Web Developer</strong> based in Berlin.
 <br>
 Why don't you take a look at my Portfolio first..?
   <br>
   <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
   <p>
-Connect with me on LinkedIn: 
-  <br>
-  https://www.linkedin.com/in/alessandra-pettinato/
 </div>
 
 ---
@@ -46,3 +44,8 @@ Connect with me on LinkedIn:
 </div>
 ---
 
+<div>
+Let's connect on Linkedin: 
+  <br>
+  https://www.linkedin.com/in/alessandra-pettinato/
+</div>
