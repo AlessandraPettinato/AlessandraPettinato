@@ -2,7 +2,6 @@
 
 ## Hello hello hello, my name is Alessandra, a <strong>Web Developer</strong> based in Berlin. :sparkles:
 
----
    <p align="center">
   
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -23,10 +22,11 @@
 <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 <img alt="InDesign" src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
 </p>
- ---
+
+   ---
   
 <div align="center">
-Why don't you take a look at my Portfolio first..?
+You can find some personal projects on my 
 
   <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
 </div>
