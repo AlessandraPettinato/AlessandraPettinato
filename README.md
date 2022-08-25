@@ -1,9 +1,9 @@
-<div align="left">
+<div align="center">
 
-# Hello hello hello, my name is Alessandra, a <strong>Web Developer</strong> based in Berlin. :sparkles:
+## Hello hello hello, my name is Alessandra, a <strong>Web Developer</strong> based in Berlin. :sparkles:
 
 ---
-<div align="left">
+<div align="center">
 Why don't you take a look at my Portfolio first..?
 
   <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
@@ -11,17 +11,7 @@ Why don't you take a look at my Portfolio first..?
 
 ---
 <div align="left">
-  <ul>
-    <li>
-       :dress: Frontend Developer at <a href="https://www.linkedin.com/company/nosto/mycompany/verification/">Nosto</a>
-    </li>
-    <li>
-    :books: Learning about <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
-    </li>
-    <li>
-      :raised_hands:  Let's get in touch: <span>  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a></span>
-    </li>
-  </ul>
+      :raised_hands:  Let's get in touch: <span>  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a></span> 
 </div>
 ---
  <p align="center">
