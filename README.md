@@ -12,10 +12,9 @@ Why don't you take a look at my Portfolio first..?
 	
 ---
 <div align="center">
-:raised_hands: Let's get in touch 
+:raised_hands:  Let's get in touch 
 <br>
  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a>
-<br>
  <a target="_blank" href="mailto:alessandrapettinato@hotmail.it" rel="noopener noreferrer">Mail</a>
 </div>
 
@@ -48,5 +47,7 @@ Why don't you take a look at my Portfolio first..?
 <div align="center">
 
 ![Alessandra Pettinato status](https://github-readme-stats.vercel.app/api?username=alessandrapettinato&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrapettinato&langs_count=6&hide=html&theme=dark&layout=compact)](https://github.com/AlessandraPettinato/github-readme-stats)
+
+</div>
 
 </div>
