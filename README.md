@@ -3,18 +3,7 @@
 ## Hello hello hello, my name is Alessandra, a <strong>Web Developer</strong> based in Berlin. :sparkles:
 
 ---
-<div align="center">
-Why don't you take a look at my Portfolio first..?
-
-  <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
-</div>
-
----
-<div align="left">
-      :raised_hands:  Let's get in touch: <span>  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a></span> 
-</div>
----
- <p align="center">
+   <p align="center">
   
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-3178C6?style=for-the-badge&logo=jquery&logoColor=white" />
@@ -34,8 +23,17 @@ Why don't you take a look at my Portfolio first..?
 <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 <img alt="InDesign" src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
 </p>
+ ---
   
-  
+<div align="center">
+Why don't you take a look at my Portfolio first..?
+
+  <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
+</div>
+
+---
+<div align="left">
+      :raised_hands:  Let's get in touch: <span>  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a></span> 
 </div>
 
 ---
