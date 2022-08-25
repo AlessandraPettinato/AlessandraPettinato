@@ -4,7 +4,7 @@
   
   I am a <strong>Web Developer</strong> based in Berlin.
 <br>
-Why don't you take a look at my <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a> first..?
+Why don't you take a look at my <span><a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a><span> first..?
   <br>
   
   <p>
