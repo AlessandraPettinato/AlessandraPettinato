@@ -23,20 +23,21 @@
 <img alt="InDesign" src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
 </p>
 
-   ---
+---
+<div align="center">
+      :raised_hands:  Let's get in touch: <span>  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a></span> 
+</div>
+
+---
   
 <div align="center">
 :globe_with_meridians: You can find some personal projects on my 
 
   <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
 </div>
-
----
-<div align="left">
-      :raised_hands:  Let's get in touch: <span>  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a></span> 
-</div>
-
----
+   
+  ---
+   
 <div align="center">
 
 ![Alessandra Pettinato status](https://github-readme-stats.vercel.app/api?username=alessandrapettinato&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrapettinato&langs_count=6&hide=html&theme=dark&layout=compact)](https://github.com/AlessandraPettinato/github-readme-stats)
