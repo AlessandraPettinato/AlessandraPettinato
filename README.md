@@ -4,9 +4,9 @@
   
   I am a <strong>Web Developer</strong> based in Berlin.
 <br>
-Why don't you take a look at my <span><a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a><span> first..?
+Why don't you take a look at my Portfolio first..?
   <br>
-  
+  <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
   <p>
 Connect with me on LinkedIn: 
   <br>
@@ -31,9 +31,8 @@ Connect with me on LinkedIn:
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img alt="Illustrator" src="https://img.shields.io/badge/Illistrator-31A8FF?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 <img alt="InDesign" src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
-<img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
 </p>
   
   
