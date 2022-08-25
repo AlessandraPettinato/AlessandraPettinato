@@ -2,11 +2,10 @@
 
 # Hey hey, my name is Alessandra! :sparkles:
  
-<div> 
   I am a <strong>Web Developer</strong> based in Berlin.
-<br>
+
 Why don't you take a look at my Portfolio first..?
-  <br>
+
   <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
 </div>
 	
@@ -47,7 +46,5 @@ Why don't you take a look at my Portfolio first..?
 <div align="center">
 
 ![Alessandra Pettinato status](https://github-readme-stats.vercel.app/api?username=alessandrapettinato&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrapettinato&langs_count=6&hide=html&theme=dark&layout=compact)](https://github.com/AlessandraPettinato/github-readme-stats)
-
-</div>
 
 </div>
