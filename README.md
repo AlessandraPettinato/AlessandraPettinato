@@ -1,28 +1,28 @@
-<div align="center">
+<div align="left">
 
-# Hey hey, my name is Alessandra! :sparkles:
- 
-  I am a <strong>Web Developer</strong> based in Berlin.
+# Hello hello hello, my name is Alessandra, a <strong>Web Developer</strong> based in Berlin. :sparkles:
 
+---
+<div align="left">
 Why don't you take a look at my Portfolio first..?
 
   <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
 </div>
-	
+
 ---
-<div align="center">
-:raised_hands:  Let's get in touch 
+<div align="left">
+• :dress: Frontend Developer at <a href="https://www.linkedin.com/company/nosto/mycompany/verification/">Nosto</a>
+• :books: Learning about <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 	
+• :raised_hands:  Let's get in touch 
 
  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a>
  <a target="_blank" href="mailto:alessandrapettinato@hotmail.it" rel="noopener noreferrer">Mail</a>
 </div>
-
 ---
  <p align="center">
   
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-3178C6?style=for-the-badge&logo=jquery&logoColor=white" />
-<img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
