@@ -13,7 +13,7 @@ Why don't you take a look at my Portfolio first..?
 ---
 <div align="center">
 :raised_hands:  Let's get in touch 
-<br>
+
  <a href="https://www.linkedin.com/in/alessandra-pettinato/"><p>Linkedin</p></a>
  <a target="_blank" href="mailto:alessandrapettinato@hotmail.it" rel="noopener noreferrer">Mail</a>
 </div>
