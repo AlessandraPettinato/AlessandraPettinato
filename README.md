@@ -2,13 +2,11 @@
 
 # Hello there, my name is Alessandra! :sparkles:
   
-  I am a <strong>Web Developer</strong> based in Berlin
-
+  I am a <strong>Web Developer</strong> based in Berlin.
 <br>
-Why don't you take a look at my portfolio first..?
+Why don't you take a look at my <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a> first..?
   <br>
-  <a href="https://alessandrapettinato.netlify.app/"><p>Portfolio</p></a>
-  <br>
+  
   <p>
 Connect with me on LinkedIn: 
   <br>
