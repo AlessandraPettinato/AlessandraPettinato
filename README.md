@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hello hello hello, my name is Alessandra, a <strong>Web Developer</strong> based in Berlin :sparkles:
+## Hello hello hello, my name is Alessandra, a <strong>Full Stack Developer</strong> based in Berlin :sparkles:
 
    <p align="center">
   
